@@ -68,7 +68,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MrJackoo&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=MrJackoo&color=blue&style=plastic&label=Unique+Profile+Views" align="center" />
 </div>  
   
 
