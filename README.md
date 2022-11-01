@@ -60,12 +60,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MrJackoo&show_icons=true&count_private=true&hide_border=true">
 </a>
 <a href="https://github.com/MrJackoo" target="_blank">
-<img src=https://github-readme-stats.vercel.app/api/top-langs?username=MrJackoo&count_private=true&repo=Personal-Public_Release&layout=compact&theme=react />
+<img src=https://github-readme-stats.vercel.app/api/top-langs?username=MrJackoo&count_private=true&langs_count=10&repo=Personal-Public_Release&layout=compact&theme=react />
 </a>
 
 <!--
 <a href="https://github.com/MrJackoo" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=MrJackoo&show_icons=true&layout=compact&repo=Personal-Public_Release&show_owner=false&count_private=true&langs_count=8&hide_border=true&theme=react">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=MrJackoo&show_icons=true&layout=compact&repo=Personal-Public_Release&show_owner=false&count_private=true&hide_border=true&theme=react">
 </a>
 -->
   </div>
