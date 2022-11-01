@@ -5,7 +5,7 @@
 
 ### ***<div align="center">Hello there My name is House Keys (Aka Jacko), I am a freelance developer 👨‍💻</div>***
 
-- 🔭 Previous Owner of [Axiom Roleplay Server](https://github.com/MrJackoo/Personal-Public_Release)
+- 🔭 Ex-Owner of [Axiom Roleplay Server](https://github.com/MrJackoo/Personal-Public_Release)
 - 🌱 I’m currently expanding my knowledge of lua/JS/CSS/HTML
 - ⚡ Fun fact: I use tabs over spaces
 
