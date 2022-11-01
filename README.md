@@ -65,7 +65,7 @@
 
 <!--
 <a href="https://github.com/MrJackoo" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=MrJackoo&show_icons=true&layout=compact&repo=Personal-Public_Release&show_owner=false&count_private=true&hide_border=true&theme=react">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=MrJackoo&show_icons=true&layout=compact&repo=Personal-Public_Release&show_owner=false&count_private=true&langs_count=8&hide_border=true&theme=react">
 </a>
 -->
   </div>
